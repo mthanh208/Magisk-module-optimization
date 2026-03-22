@@ -1,5 +1,5 @@
 # android-performance-module
-   
+   Magisk module designed to improve Android performance, reduce lag, and maintain system stability without aggressive or risky tweaks.
 <img width="1248" height="1248" alt="nonm" src="https://github.com/user-attachments/assets/52267b0a-1778-47da-a0a4-0a8c885fd1c5" />
 
 
