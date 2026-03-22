@@ -14,14 +14,8 @@ ______________________________
 - Reduced system latency (smoother UI)
 - RAM optimization 
 - I/O tuning
-
-
-______________________________
-
- ⚙️ How It Works
 - Applies kernel and system tweaks
-- Runs scripts automatically at boot
-- Does not modify system files (systemless)
+
 
 ______________________________
 
